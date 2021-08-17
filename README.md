@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javeriaz15
-- 👀 I’m interested in computer vision and deep learning and its application in agriculture and satellite communication.
+- 👀 I’m interested in computer vision and deep learning and its application in traffic, agriculture and satellite communication.
 - 🌱 I’m currently learning python and R for video processing and data analysis.
-- 💞️ I’m looking to collaborate for solving computer vision problems in image instance segmentation.
+- 🌱 I’m looking to collaborate for solving computer vision problems in image instance segmentation.
 - 📫 Connect with me on Linkedin https://www.linkedin.com/in/juwairiah-zia-aa682b114/
 
 <!---
