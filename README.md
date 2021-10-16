@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and R for deep learning and data engineering.
 - ‍💻 I’m looking to collaborate for solving computer vision problems in image instance segmentation and on raw data for data analysis and modeling.
 - 📫 Connect with me on Linkedin https://www.linkedin.com/in/juwairiah-zia-aa682b114/
-- 👩‍💻 Here's my resume https://drive.google.com/file/d/1uj8alVbOzkste4TVm9BwmHN9j7fG2aDb/view?usp=sharing
+- 👩‍💻 Here's my resume https://drive.google.com/file/d/1GLUbogi-rbyW_U19ozrlgHxfvsKMW0ZK/view?usp=sharing
 
 <!---
 javeriaz15/javeriaz15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
