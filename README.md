@@ -25,7 +25,7 @@ This project describes an adaptive learning approach to detect, segment, measure
 [Deep Learning Algorithm of a Snapshot Mobile App for DVD Finder](https://github.com/javeriaz15/SiameseNN-for-DVD-Snapshot-App) <br /> 
 This project describes a deep learning algorithm for a mobile photo app where you take a picture of a DVD, and the app tells you all the information about it. The output should be to find out the movie that the DVD cover belongs to. As each class of a DVD cover has a single training data instance, therefore, data augmentation was performed to increase training samples. The approach to classifying the DVD cover is based on Siamese Neural Network that determines if the two inputs are different or similar. <br />
     
-[Image Classification on CIFAR-10 Dataset](https://github.com/javeriaz15/logistic-regression-on-CIFAR-10) <br /> 
+[Image Classification of CIFAR-10 Dataset](https://github.com/javeriaz15/logistic-regression-on-CIFAR-10) <br /> 
 The classification on the CIFAR-10 dataset of 50,000 training images has been improved in this project. This is achieved by the logistic regression model-based convolutional neural network with Keras API of TensorFlow for object recognition. <br /> 
     
 [Predictive Modeling For Canada COVID-19 Vaccinations](https://github.com/javeriaz15/Predictive-Modeling-on-Canada-COVID-Vaccinations) <br /> 
