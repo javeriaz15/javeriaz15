@@ -4,8 +4,9 @@
 👩🏻‍💻 Leveraging my academic research background in computer vision and deep learning and technical skills in MATLAB and Python, I am particularly interested in solving problems in video surveillance for the outdoors such as traffic, agriculture, and space🚀.<br /> 
 🌱 My other technical interests are in data storytelling, data science model using R and SQL for RDBMS and machine learning product management.<br />
 💻 I am always looking to learn something new and challenge my technical and interpersonal skills. I’m looking to collaborate for solving computer vision problems with little to no training data in the form of videos and images. I am also passionate about building AI-driven products that can help in strengthening our society and culture.<br /> 
-👀 In my spare time, you can catch me watching sci-fi movies and reading spiritual and self-development books.
-
+👀 In my spare time, you can catch me watching sci-fi movies and reading spiritual and self-development books.<br/>
+<br/>
+<br/>
 **Feel free to connect with me!**
 <p>
   <a href="https://www.linkedin.com/in/juwairiah-zia-aa682b114/" rel="nofollow noreferrer">
@@ -15,7 +16,8 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
   </a>
 </p>
-
+<br/>
+    
 ## My Projects
 [Real Time Moving Object Detection and Tracking with Computational Geometry](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry) | [Demo](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry/blob/main/Object%20Segmentation/output.mp4) <br />
 This project describes an adaptive learning approach to detect, segment, measure, and track objects in outdoors, such as vehicles, pedestrians, etc. In this project, the object, a vehicle, is detected using computational geometry, topology, and engineering physics rather than using neural networks. Therefore, training is not involved.<br /> 
@@ -28,7 +30,7 @@ The classification on the CIFAR-10 dataset of 50,000 training images has been im
     
 [Predictive Modeling For Canada COVID-19 Vaccinations](https://github.com/javeriaz15/Predictive-Modeling-on-Canada-COVID-Vaccinations) <br /> 
 This project describes a statistical, descriptive, and predictive model using R and Python data analysis and data visualization tools. The model aims to forecast exactly when every Canadian will be completely vaccinated. <br /> 
-    
+<br/>    
 ## The Startup
 [Healthcare Matrix](https://thenestio.com/startup/healthcare-matrix/) <br /> 
 Healthcare Matrix is an interactive AI-driven standalone unit that automates primary-level medical inspection and medication in third-world countries and remote areas. It also provides a basic medical report and releases over-the-counter medicines until the doctor checks the patient for further inspection. By automating routine medical tasks, our product relieves doctors and medical staff from the stress of initial medical inspection in OPDs, while reducing patient waiting time. **(Patent Protected)**<br />
