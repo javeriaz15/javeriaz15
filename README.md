@@ -31,9 +31,9 @@ The classification on the CIFAR-10 dataset of 50,000 training images has been im
 [Predictive Modeling For Canada COVID-19 Vaccinations](https://github.com/javeriaz15/Predictive-Modeling-on-Canada-COVID-Vaccinations) <br /> 
 This project describes a statistical, descriptive, and predictive model using R and Python data analysis and data visualization tools. The model aims to forecast exactly when every Canadian will be completely vaccinated. <br /> 
 <br/>    
-## The Startup
-[Healthcare Matrix](https://thenestio.com/startup/healthcare-matrix/) <br /> 
-Healthcare Matrix is an interactive AI-driven standalone unit that automates primary-level medical inspection and medication in third-world countries and remote areas. It also provides a basic medical report and releases over-the-counter medicines until the doctor checks the patient for further inspection. By automating routine medical tasks, our product relieves doctors and medical staff from the stress of initial medical inspection in OPDs, while reducing patient waiting time. **(Patent Protected)**<br />
+## The Startup 
+[Healthcare Matrix](https://thenestio.com/startup/healthcare-matrix/) | [MVP Demo](https://www.youtube.com/watch?v=xanfuA6B2g0&ab_channel=JaveriaZ) <br /> 
+Healthcare Matrix is a med-tech hardware startup that manufactures an interactive AI-driven standalone unit. The unit automates primary-level medical inspection and medication in third-world countries and remote areas. It also provides a basic medical report and releases over-the-counter medicines until the doctor checks the patient for further inspection. By automating routine medical tasks, our product relieves doctors and medical staff from the stress of initial medical inspection in OPDs, while reducing patient waiting time. **(Patent Protected)**<br />
 
     
 <!---
