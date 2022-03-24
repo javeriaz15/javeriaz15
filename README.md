@@ -9,7 +9,7 @@
 <br/>
 **Feel free to connect with me!**
 <p>
-  <a href="https://www.linkedin.com/in/juwairiah-zia-aa682b114/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/juwairiah-zia/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   </a> &nbsp;
   <a href="https://twitter.com/javeriazhere" rel="nofollow noreferrer">
