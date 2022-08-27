@@ -1,7 +1,7 @@
 ## Welcome
 
 👋 I am a computer vision researcher based in Ontario and pursuing my M.Sc. degree in Electrical and Computer Engineering from the Computational Intelligence Laboratory at the University of Manitoba.<br />
-👩🏻‍💻 Leveraging my academic research background in computer vision and deep learning and technical skills in MATLAB and Python, I am particularly interested in solving problems in vision systems for traffic survaillance, automonous vehicles, agriculture, and space🚀.<br /> 
+👩🏻‍💻 Leveraging my academic research background in computer vision and deep learning and technical skills in MATLAB and Python, I am particularly interested in solving problems in vision systems for survaillance, automonous vehicles, agriculture, and space🚀.<br /> 
 🌱 My other technical interests are in data storytelling, and AI product development and management.<br />
 💻 I am always looking to learn something new and challenge my technical and interpersonal skills. I’m looking to collaborate for solving computer vision problems with little to no training data in the form of videos and images. I am also passionate about building AI-driven products that can help in strengthening our society and culture.<br /> 
 👀 In my spare time, you can catch me watching sci-fi movies and reading spiritual and self-development books.<br/>
