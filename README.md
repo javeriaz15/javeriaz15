@@ -19,8 +19,11 @@
 <br/>
     
 ## My Projects
-[Real Time Moving Object Detection and Tracking with Computational Geometry](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry) | [Demo](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry/blob/main/Object%20Segmentation/output.mp4) <br />
+[Real Time Single Object Detection and Tracking with Computational Geometry](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry) | [Demo](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry/blob/main/Object%20Segmentation/output.mp4) <br />
 This project describes an adaptive learning approach to detect, segment, measure, and track objects in outdoors, such as vehicles, pedestrians, etc. In this project, the object, a vehicle, is detected using computational geometry, topology, and engineering physics rather than using neural networks. Therefore, only 1 training sample per class is required, rather loads of visual data.<br /> 
+    
+[Real Time Multiple Moving Vehicle Detection and Segmenation with Computational Geometry](https://github.com/javeriaz15/geometrical-multiple-object-detection) | [Demo](https://github.com/javeriaz15/geometrical-multiple-object-detection/blob/main/DetectionTraffic.mp4) <br />
+This project describes an adaptive learning approach to detect, and segment objects that are vehicles on road by applying computation geometry, topology and engineering physics rather than using neural networks. Gaussian Mixture Model is employed for detecting moving foreground and tesselation is used for segmentation.<br /> 
 
 [Deep Learning Algorithm of a Snapshot Mobile App for DVD Finder](https://github.com/javeriaz15/SiameseNN-for-DVD-Snapshot-App) <br /> 
 This project describes a deep learning algorithm for a mobile photo app where you take a picture of a DVD, and the app tells you all the information about it. The output should be to find out the movie that the DVD cover belongs to. As each class of a DVD cover has a single training data instance, therefore, data augmentation was performed to increase training samples. The approach to classifying the DVD cover is based on Siamese Neural Network that determines if the two inputs are different or similar. <br />
@@ -30,8 +33,13 @@ The classification on the CIFAR-10 dataset of 50,000 training images has been im
     
 [Predictive Modeling For Canada COVID-19 Vaccinations](https://github.com/javeriaz15/Predictive-Modeling-on-Canada-COVID-Vaccinations) <br /> 
 This project describes a statistical, descriptive, and predictive model using R and Python data analysis and data visualization tools. The model aims to forecast exactly when every Canadian will be completely vaccinated. <br /> 
-<br/>    
+<br/>  
+    
 ## My Startup 
+[Title-Coming Soon] <br /> 
+This startup aim is to contribute in the Equity, Diversity and Inclusion space using technology such as deep learning and computer vision to preserve an important aspect of culture.<br />
+Current Status: Raising funds and gathering multi-disciplinary team members<br /> 
+<br /> 
 [Healthcare Matrix](https://thenestio.com/startup/healthcare-matrix/) | [MVP Demo](https://www.youtube.com/watch?v=xanfuA6B2g0&ab_channel=JaveriaZ) <br /> 
 Healthcare Matrix is a med-tech hardware startup that manufactures an interactive AI-driven standalone unit. The unit automates primary-level medical inspection and medication in third-world countries and remote areas. It also provides a basic medical report and releases over-the-counter medicines until the doctor checks the patient for further inspection. As a founder of this startup, I leaded and was involved in the ideation stage and worked through research, coding and hardware development for all of its versions. Furthermore, I acted as a Chief Executive Officer and took business development responsibilities to improve the product and its marketing.**(Patent Protected)**<br />
 
