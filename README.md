@@ -1,6 +1,6 @@
 ## Welcome
 
-👋 I am a computer vision researcher based in Ontario and pursuing my M.Sc. degree in Electrical and Computer Engineering from the Computational Intelligence Laboratory at the University of Manitoba.<br />
+👋 I am a computer vision researcher, hold M.Sc. in Electrical and Computer Engineering from the Computational Intelligence Laboratory at the University of Manitoba.<br />
 👩🏻‍💻 Leveraging my academic research background in computer vision and deep learning and technical skills in MATLAB and Python, I am particularly interested in solving problems in vision systems for survaillance, automonous vehicles, agriculture, and space🚀.<br /> 
 🌱 My other technical interests are in data storytelling, and AI product development and management.<br />
 💻 I am always looking to learn something new and challenge my technical and interpersonal skills. I’m looking to collaborate for solving computer vision problems with little to no training data in the form of videos and images. I am also passionate about building AI-driven products that can help in strengthening our society and culture.<br /> 
@@ -20,7 +20,7 @@
     
 ## My Projects
 [Real Time Moving Object Detection and Tracking with Computational Geometry](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry) | [Demo](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry/blob/main/Object%20Segmentation/output.mp4) <br />
-This project describes an adaptive learning approach to detect, segment, measure, and track objects in outdoors, such as vehicles, pedestrians, etc. In this project, the object, a vehicle, is detected using computational geometry, topology, and engineering physics rather than using neural networks. Therefore, training is not involved.<br /> 
+This project describes an adaptive learning approach to detect, segment, measure, and track objects in outdoors, such as vehicles, pedestrians, etc. In this project, the object, a vehicle, is detected using computational geometry, topology, and engineering physics rather than using neural networks. Therefore, only 1 training sample per class is required, rather loads of visual data.<br /> 
 
 [Deep Learning Algorithm of a Snapshot Mobile App for DVD Finder](https://github.com/javeriaz15/SiameseNN-for-DVD-Snapshot-App) <br /> 
 This project describes a deep learning algorithm for a mobile photo app where you take a picture of a DVD, and the app tells you all the information about it. The output should be to find out the movie that the DVD cover belongs to. As each class of a DVD cover has a single training data instance, therefore, data augmentation was performed to increase training samples. The approach to classifying the DVD cover is based on Siamese Neural Network that determines if the two inputs are different or similar. <br />
