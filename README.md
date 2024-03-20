@@ -35,7 +35,7 @@ This project describes a deep learning algorithm for a mobile photo app where yo
 [Image Classification of CIFAR-10 Dataset](https://github.com/javeriaz15/logistic-regression-on-CIFAR-10) <br /> 
 The classification of the CIFAR-10 dataset of 50,000 training images has been improved in this project. This is achieved by the logistic regression model-based convolutional neural network with Keras API of TensorFlow for object recognition. <br /> 
     
-[Predictive Modeling For Canada COVID-19 Vaccinations](https://github.com/javeriaz15/Predictive-Modeling-on-Canada-COVID-Vaccinations) <br /> 
+[Predictive Modeling For Canada COVID-19 Vaccinations](https://github.com/javeriaz15/Predictive-Modeling-on-Canada-COVID-Vaccinations) | [Project Report with Results](https://github.com/javeriaz15/Predictive-Modeling-on-Canada-COVID-Vaccinations/blob/main/Report%20-%20When%20Every%20Canadian%20will%20be%20Vaccinated.pdf)<br /> 
 This project describes a statistical, descriptive, and predictive model using R and Python data analysis and data visualization tools. The model aims to forecast exactly when every Canadian will be completely vaccinated. <br /> 
 <br/>  
     
