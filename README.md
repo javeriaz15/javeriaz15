@@ -1,9 +1,9 @@
 ## Welcome
 
-👋 I am a computer vision researcher, hold M.Sc. in Electrical and Computer Engineering from the Computational Intelligence Laboratory at the University of Manitoba.<br />
-👩🏻‍💻 Leveraging my academic research background in computer vision and deep learning and technical skills in MATLAB and Python, I am particularly interested in solving problems in vision systems for survaillance, agriculture, and space🚀.<br /> 
-🌱 My other technical interests are in data storytelling, AI product development, and project management.<br />
-💻 I am always looking to learn something new and challenge my technical and interpersonal skills. I’m looking to collaborate to solve deep learning problems with little to no training data. I am also passionate about building AI-driven products that can help in strengthening our society and culture.<br /> 
+👋 I am an AI and computer vision professional with an M.Sc. in Electrical and Computer Engineering from the Computational Intelligence Laboratory at the University of Manitoba.<br />
+👩🏻‍💻 My work combines computer vision, deep learning, AI product development, technical project management, and product management. I have experience building and leading AI-driven products across areas such as creator attribution, healthcare technology, industrial IoT, and cloud-based platforms.<br /> 
+🌱 My technical interests include computer vision, AI/ML systems, data storytelling, AI product development, technical project management, and responsible technology that creates meaningful social impact.<br />
+💻 I enjoy working at the intersection of research, product, and execution. I am especially interested in building AI-powered solutions that solve real-world problems, support creativity, and strengthen society and culture.<br /> 
 👀 In my spare time, you can catch me watching sci-fi movies and reading spiritual and self-development books.<br/>
 <br/>
 <br/>
@@ -40,9 +40,9 @@ This project describes a statistical, descriptive, and predictive model using R 
 <br/>  
     
 ## My Startup 
-[Title-Coming Soon] <br /> 
-This startup's aim is to contribute to the Equity, Diversity, and Inclusion space using technology such as deep learning and computer vision to preserve an important aspect of culture.<br />
-Current Status: Raising funds and gathering multi-disciplinary team members<br /> 
+[Idometrics](https://www.idometrics.com/) <br /> 
+Idometrics is an AI-powered platform built to support dance creators with attribution, recognition, and creative insights. The platform uses technologies such as computer vision, pose detection, similarity analysis, blockchain-based registration, context learning and cloud infrastructure to help preserve creator identity, cultural context, and originality in dance.<br />
+Current Status: MVP launched with early users, ongoing product validation, and grant-supported research collaboration with McMaster, Universal Production Music and the Hamilton Conservatory for the Arts Society.<br /> 
 <br /> 
 [Healthcare Matrix](https://thenestio.com/startup/healthcare-matrix/) | [MVP Demo](https://www.youtube.com/watch?v=xanfuA6B2g0&ab_channel=JaveriaZ) <br /> 
 Healthcare Matrix is a med-tech hardware startup that manufactures an interactive AI-driven standalone unit. The unit automates primary-level medical inspection and medication in third-world countries and remote areas. It also provides a basic medical report and releases over-the-counter medicines until the doctor checks the patient for further inspection. As a founder of this startup, I led and was involved in the ideation stage and worked through research, coding of FPGA myRIO embedded board, and hardware development along with the integration for all of its versions. Furthermore, I acted as a Chief Executive Officer and took business development responsibilities to improve the product and its marketing.**(Patent Protected)**<br />
