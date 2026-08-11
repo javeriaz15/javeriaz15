@@ -1,54 +1,94 @@
-## Welcome
+# Juwairiah Zia
 
-👋 I am an AI and computer vision professional with an M.Sc. in Electrical and Computer Engineering from the Computational Intelligence Laboratory at the University of Manitoba.<br />
-👩🏻‍💻 My work combines computer vision, deep learning, AI product development, technical project management, and product management. I have experience building and leading AI-driven products across areas such as creator attribution, healthcare technology, industrial IoT, and cloud-based platforms.<br /> 
-🌱 My technical interests include computer vision, AI/ML systems, data storytelling, AI product development, technical project management, and responsible technology that creates meaningful social impact.<br />
-💻 I enjoy working at the intersection of research, product, and execution. I am especially interested in building AI-powered solutions that solve real-world problems, support creativity, and strengthen society and culture.<br /> 
-👀 In my spare time, you can catch me watching sci-fi movies and reading spiritual and self-development books.<br/>
-<br/>
-<br/>
-**Feel free to connect with me!**
-<p>
-  <a href="https://www.linkedin.com/in/juwairiah-zia/" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  </a> &nbsp;
-  <a href="https://twitter.com/javeriazhere" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-  </a>
-</p>
-<br/>
-    
-## My Projects
+### Computer Vision & Applied AI Engineer
 
-[Temporal Multiple Moving Objects Recognition Using Shape-Based Descriptor Matching](https://github.com/javeriaz15/Temporal-Multiple-Moving-Objects-Recognition-Using-Shape-Based-Descriptor-Matching)  | [Thesis Document](https://mspace.lib.umanitoba.ca/bitstreams/8a56c0cd-96ea-450d-b034-9116980609b7/download)  | [Demo](https://github.com/javeriaz15/Temporal-Multiple-Moving-Objects-Recognition-Using-Shape-Based-Descriptor-Matching/tree/main/Test%20Videos) <br />
-This is my thesis project for graduate studies (M.Sc.), which I did at the University of Manitoba's Computational Intelligent Lab. The algorithm extends the approach of extracting moving objects in complex backgrounds in the temporal domain. Shape descriptors in 4 dimensions are then estimated and utilized for shape matching. The real-world application is multiple object recognition by using only 1-training sample per class and then a shape descriptor matrix to assess the proximity between various moving objects and establish their descriptive nearness (similarity) for recognition.<br />
+I build AI and software systems across **computer vision, deep learning, machine learning, recommendation systems, and multimodal applications**. My work spans research and experimentation through software implementation, system integration, model evaluation, APIs, and cloud-based product development.
 
-[Real Time Single Object Detection and Tracking with Computational Geometry](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry) | [Demo](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry/blob/main/Object%20Segmentation/output.mp4) <br />
-This project describes an adaptive learning approach to detect, segment, measure, and track objects in outdoors, such as vehicles, pedestrians, etc. In this project, the object is detected using computational geometry, topology, and engineering physics rather than using neural networks. Therefore, only 1 training sample per class is required, rather than loads of visual data.<br /> 
-    
-[Real Time Multiple Moving Vehicle Detection and Segmenation with Computational Geometry](https://github.com/javeriaz15/geometrical-multiple-object-detection) | [Demo](https://github.com/javeriaz15/geometrical-multiple-object-detection/blob/main/DetectionTraffic.mp4) <br />
-This project describes an adaptive learning approach to detect and segment objects that are vehicles on the road by applying computation geometry, topology, and engineering physics rather than using neural networks. Gaussian Mixture Model is employed for detecting moving foreground, and tesselation is used for segmentation.<br /> 
+I hold an **M.Sc. in Electrical and Computer Engineering** from the University of Manitoba, where I conducted computer vision research in the Computational Intelligence Laboratory.
 
-[Deep Learning Algorithm of a Snapshot Mobile App for DVD Finder](https://github.com/javeriaz15/SiameseNN-for-DVD-Snapshot-App)  | [Project Report with Results](https://github.com/javeriaz15/SiameseNN-for-DVD-Snapshot-App/blob/main/Report%20-%20Siamese%20Neural%20Network%20For%20DVD%20Detector%20App%20-%20by%20Juwairiah%20Zia%20and%20Enze%20Cui%20ECE7650.pdf) <br /> 
-This project describes a deep learning algorithm for a mobile photo app where you take a picture of a DVD, and the app tells you all the information about it. The output should be to find out which movie the DVD cover belongs to. As each class of a DVD cover has a single training data instance, data augmentation was performed to increase training samples. The approach to classifying the DVD cover is based on the Siamese Neural Network that determines if the two inputs are different or similar. <br />
-    
-[Image Classification of CIFAR-10 Dataset](https://github.com/javeriaz15/logistic-regression-on-CIFAR-10) <br /> 
-The classification of the CIFAR-10 dataset of 50,000 training images has been improved in this project. This is achieved by the logistic regression model-based convolutional neural network with Keras API of TensorFlow for object recognition. <br /> 
-    
-[Predictive Modeling For Canada COVID-19 Vaccinations](https://github.com/javeriaz15/Predictive-Modeling-on-Canada-COVID-Vaccinations) | [Project Report with Results](https://github.com/javeriaz15/Predictive-Modeling-on-Canada-COVID-Vaccinations/blob/main/Report%20-%20When%20Every%20Canadian%20will%20be%20Vaccinated.pdf)<br /> 
-This project describes a statistical, descriptive, and predictive model using R and Python data analysis and data visualization tools. The model aims to forecast exactly when every Canadian will be completely vaccinated. <br /> 
-<br/>  
-    
-## My Startup 
-[Idometrics](https://www.idometrics.com/) <br /> 
-Idometrics is an AI-powered platform built to support dance creators with attribution, recognition, and creative insights. The platform uses technologies such as computer vision, pose detection, similarity analysis, blockchain-based registration, context learning and cloud infrastructure to help preserve creator identity, cultural context, and originality in dance.<br />
-Current Status: MVP launched with early users, ongoing product validation, and grant-supported research collaboration with McMaster, Universal Production Music and the Hamilton Conservatory for the Arts Society.<br /> 
-<br /> 
-[Healthcare Matrix](https://thenestio.com/startup/healthcare-matrix/) | [MVP Demo](https://www.youtube.com/watch?v=xanfuA6B2g0&ab_channel=JaveriaZ) <br /> 
-Healthcare Matrix is a med-tech hardware startup that manufactures an interactive AI-driven standalone unit. The unit automates primary-level medical inspection and medication in third-world countries and remote areas. It also provides a basic medical report and releases over-the-counter medicines until the doctor checks the patient for further inspection. As a founder of this startup, I led and was involved in the ideation stage and worked through research, coding of FPGA myRIO embedded board, and hardware development along with the integration for all of its versions. Furthermore, I acted as a Chief Executive Officer and took business development responsibilities to improve the product and its marketing.**(Patent Protected)**<br />
+### Technical Focus
 
-    
-<!---
-javeriaz15/javeriaz15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages:** Python · C++ · C · C# · SQL
+**AI / ML:** PyTorch · OpenCV · scikit-learn · TensorFlow/Keras · Computer Vision · Deep Learning · Recommendation Systems · Metric Learning
+**Computer Vision:** Object Detection · Object Tracking · Image/Video Processing · Pose & Similarity Analysis · Feature/Shape Descriptors
+**Engineering:** REST APIs · Git/GitHub · Linux · Docker · AWS · MongoDB · PostgreSQL
+**Current Focus:** Production Computer Vision · Multimodal AI · ML Systems · LLM Applications
+
+---
+
+## Featured Projects
+
+### Temporal Multiple Moving Object Recognition
+
+**Computer Vision · Object Recognition · Shape Descriptors · One-Shot Recognition · Research**
+
+[Repository](https://github.com/javeriaz15/Temporal-Multiple-Moving-Objects-Recognition-Using-Shape-Based-Descriptor-Matching) · [M.Sc. Thesis](https://mspace.lib.umanitoba.ca/bitstreams/8a56c0cd-96ea-450d-b034-9116980609b7/download) · [Demo Videos](https://github.com/javeriaz15/Temporal-Multiple-Moving-Objects-Recognition-Using-Shape-Based-Descriptor-Matching/tree/main/Test%20Videos)
+
+M.Sc. research focused on recognizing multiple moving objects in complex video environments using temporal information and shape-descriptor matching. The approach was designed for **one-shot recognition**, using a single training example per class and multidimensional shape representations to measure similarity between moving objects.
+
+---
+
+### Real-Time Object Detection & Tracking with Computational Geometry
+
+**Computer Vision · Object Detection · Tracking · GMM · Kalman Filtering · Computational Geometry**
+
+[Repository](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry) · [Demo](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry/blob/main/Object%20Segmentation/output.mp4)
+
+Developed an adaptive computer vision pipeline for detecting, segmenting, measuring, and tracking moving objects in outdoor scenes. The system combines foreground modeling, computational geometry, topology, shape analysis, and tracking techniques rather than relying entirely on neural-network-based detection.
+
+---
+
+### Siamese Neural Network for Few-Shot Image Recognition
+
+**PyTorch · Deep Learning · Siamese Networks · Metric Learning · Image Similarity**
+
+[Repository](https://github.com/javeriaz15/SiameseNN-for-DVD-Snapshot-App) · [Project Report](https://github.com/javeriaz15/SiameseNN-for-DVD-Snapshot-App/blob/main/Report%20-%20Siamese%20Neural%20Network%20For%20DVD%20Detector%20App%20-%20by%20Juwairiah%20Zia%20and%20Enze%20Cui%20ECE7650.pdf)
+
+Built a Siamese neural network for few-shot image recognition where only limited reference images are available for each class. The solution uses image augmentation and learned similarity representations to determine whether a query image belongs to the same class as a reference image.
+
+---
+
+## Applied AI & Software Systems
+
+### Idometrics
+
+[Website](https://www.idometrics.com/)
+
+AI-powered platform focused on creator attribution and intelligent discovery for dance content. My technical work has included **computer vision, pose-based analysis, similarity methods, recommendation systems, AI/ML experimentation, REST APIs, data systems, and cloud-based product architecture**.
+
+The platform has progressed through research, MVP development, beta validation, and collaborative research initiatives.
+
+---
+
+### Healthcare Matrix
+
+[Project](https://thenestio.com/startup/healthcare-matrix/) · [MVP Demo](https://www.youtube.com/watch?v=xanfuA6B2g0&ab_channel=JaveriaZ)
+
+Designed and developed an integrated healthcare technology prototype combining embedded software, medical sensors, diagnostic logic, mobile software, communication interfaces, and automated medication dispensing.
+
+My work included embedded programming, hardware/software integration, system architecture, sensor integration, application development, prototyping, testing, and technical product development.
+
+---
+
+## What I'm Building Now
+
+My current engineering work is focused on building stronger production-oriented AI systems across:
+
+* Real-time computer vision and video analytics
+* Model inference and performance optimization
+* ML and recommendation systems
+* Multimodal AI and LLM applications
+* API-based AI services
+* Containerized and cloud-deployed ML applications
+
+---
+
+## Connect
+
+<a href="https://www.linkedin.com/in/juwairiah-zia/" rel="nofollow noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://twitter.com/javeriazhere" rel="nofollow noreferrer">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
