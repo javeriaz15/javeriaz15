@@ -62,7 +62,7 @@ The platform has progressed through research, MVP development, beta validation, 
 
 ### Healthcare Matrix
 
-[Project](https://thenestio.com/startup/healthcare-matrix/) · [MVP Demo](https://www.youtube.com/watch?v=xanfuA6B2g0&ab_channel=JaveriaZ)
+[MVP Demo](https://www.youtube.com/watch?v=xanfuA6B2g0&ab_channel=JaveriaZ)
 
 Designed and developed an integrated healthcare technology prototype combining embedded software, medical sensors, diagnostic logic, mobile software, communication interfaces, and automated medication dispensing.
 
