@@ -22,7 +22,7 @@ I hold an **M.Sc. in Electrical and Computer Engineering** from the University o
 
 **Computer Vision · Object Recognition · Shape Descriptors · One-Shot Recognition · Research**
 
-[Repository](https://github.com/javeriaz15/Temporal-Multiple-Moving-Objects-Recognition-Using-Shape-Based-Descriptor-Matching) · [M.Sc. Thesis](https://mspace.lib.umanitoba.ca/bitstreams/8a56c0cd-96ea-450d-b034-9116980609b7/download) · [Demo Videos](https://github.com/javeriaz15/Temporal-Multiple-Moving-Objects-Recognition-Using-Shape-Based-Descriptor-Matching/tree/main/Test%20Videos)
+[Repository](https://github.com/javeriaz15/Temporal-Multiple-Moving-Objects-Recognition-Using-Shape-Based-Descriptor-Matching) · [M.Sc. Thesis](https://mspace.lib.umanitoba.ca/items/a267fb22-720b-4493-96c1-e15bc2aefd8a) · [Demo Videos](https://github.com/javeriaz15/Temporal-Multiple-Moving-Objects-Recognition-Using-Shape-Based-Descriptor-Matching/tree/main/Test%20Videos)
 
 M.Sc. research focused on recognizing multiple moving objects in complex video environments using temporal information and shape-descriptor matching. The approach was designed for **one-shot recognition**, using a single training example per class and multidimensional shape representations to measure similarity between moving objects.
 
