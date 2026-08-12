@@ -33,13 +33,15 @@ M.Sc. Computer Vision research focused on **one-shot, similarity-based recogniti
 
 ---
 
-### Real-Time Object Detection & Tracking with Computational Geometry
+### Moving Object Detection, Segmentation & Frame-wise Tracking
 
-**Computer Vision · Object Detection · Tracking · GMM · Kalman Filtering · Computational Geometry**
+**Computer Vision · Video Processing · Object Segmentation · Frame-wise Tracking · Computational Geometry · Delaunay Triangulation · MATLAB**
 
-[Repository](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry) · [Demo](https://github.com/javeriaz15/Vehicle-Tracking-Using-Computational-Geometry/blob/main/Object%20Segmentation/output.mp4)
+[Repository](https://github.com/javeriaz15/Moving-Object-Segmentation-Tracking) · [Demo](https://github.com/javeriaz15/Moving-Object-Segmentation-Tracking/blob/main/assets/demo/segmented-output.mp4)
 
-Developed an adaptive computer vision pipeline for detecting, segmenting, measuring, and tracking moving objects in outdoor scenes. The system combines foreground modeling, computational geometry, topology, shape analysis, and tracking techniques rather than relying entirely on neural-network-based detection.
+Developed a classical computer vision pipeline for **detecting, segmenting, and following moving objects across video frames**. The MATLAB implementation combines foreground extraction, morphological filtering, Canny edge detection, boundary and centroid estimation, and **Delaunay triangulation** to construct an interpretable geometric representation of moving objects over time.
+
+This segmentation and frame-wise object-analysis approach was later **extended and refined in my M.Sc. research** on temporal single and multiple moving-object recognition using 4D shape descriptors and descriptive proximity.
 
 ---
 
