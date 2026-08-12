@@ -25,7 +25,7 @@ I hold an **M.Sc. in Electrical and Computer Engineering** from the University o
 
 **Computer Vision · Video Analysis · One-Shot Recognition · Similarity-Based Recognition · 4D Shape Descriptors · Computational Geometry**
 
-[Repository](https://github.com/javeriaz15/temporal-moving-object-recognition) · [M.Sc. Thesis](https://mspace.lib.umanitoba.ca/items/a267fb22-720b-4493-96c1-e15bc2aefd8a) · [Methodology](https://github.com/javeriaz15/temporal-moving-object-recognition/blob/main/docs/methodology.md) · [Results](https://github.com/javeriaz15/temporal-moving-object-recognition/blob/main/docs/results.md)
+[Repository](https://github.com/javeriaz15/Temporal-Single-and-Multiple-Moving-Object-Recognition) · [M.Sc. Thesis](https://mspace.lib.umanitoba.ca/items/a267fb22-720b-4493-96c1-e15bc2aefd8a) · [Methodology](https://github.com/javeriaz15/Temporal-Single-and-Multiple-Moving-Object-Recognition/blob/main/docs/methodology.md) · [Results](https://github.com/javeriaz15/Temporal-Single-and-Multiple-Moving-Object-Recognition/blob/main/docs/results.md)
 
 M.Sc. Computer Vision research focused on **one-shot, similarity-based recognition of single and multiple moving objects in video**. The approach uses one training video per object class and constructs **temporal 4D shape descriptors** from boundary points, shape area, Barycenter Nerve Vortex area, and Fermi energy. Test-object descriptors are compared against training representations using **descriptive proximity** to determine descriptively near and far objects.
 
