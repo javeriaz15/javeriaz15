@@ -21,13 +21,15 @@ I hold an **M.Sc. in Electrical and Computer Engineering** from the University o
 
 ## Featured Projects
 
-### Temporal Multiple Moving Object Recognition
+### Temporal Single & Multiple Moving Object Recognition
 
-**Computer Vision · Object Recognition · Shape Descriptors · One-Shot Recognition · Research**
+**Computer Vision · Video Analysis · One-Shot Recognition · Similarity-Based Recognition · 4D Shape Descriptors · Computational Geometry**
 
-[Repository](https://github.com/javeriaz15/Temporal-Multiple-Moving-Objects-Recognition-Using-Shape-Based-Descriptor-Matching) · [M.Sc. Thesis](https://mspace.lib.umanitoba.ca/items/a267fb22-720b-4493-96c1-e15bc2aefd8a) · [Demo Videos](https://github.com/javeriaz15/Temporal-Multiple-Moving-Objects-Recognition-Using-Shape-Based-Descriptor-Matching/tree/main/Test%20Videos)
+[Repository](https://github.com/javeriaz15/temporal-moving-object-recognition) · [M.Sc. Thesis](https://mspace.lib.umanitoba.ca/items/a267fb22-720b-4493-96c1-e15bc2aefd8a) · [Methodology](https://github.com/javeriaz15/temporal-moving-object-recognition/blob/main/docs/methodology.md) · [Results](https://github.com/javeriaz15/temporal-moving-object-recognition/blob/main/docs/results.md)
 
-M.Sc. research focused on recognizing multiple moving objects in complex video environments using temporal information and shape-descriptor matching. The approach was designed for **one-shot recognition**, using a single training example per class and **four-dimensional (4D) shape descriptors** to represent object characteristics and measure similarity between moving objects.
+M.Sc. Computer Vision research focused on **one-shot, similarity-based recognition of single and multiple moving objects in video**. The approach uses one training video per object class and constructs **temporal 4D shape descriptors** from boundary points, shape area, Barycenter Nerve Vortex area, and Fermi energy. Test-object descriptors are compared against training representations using **descriptive proximity** to determine descriptively near and far objects.
+
+**Evaluation:** 18 training vehicle classes; single-object descriptive-proximity scores of **81.1–99.7%** and multiple-object scores of **90.8–99.9%** across the reported experiments.
 
 ---
 
