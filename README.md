@@ -1,21 +1,22 @@
 # Juwairiah Zia
 
-### Computer Vision & Applied AI Engineer
+### Software Engineer | Computer Vision & Applied AI
 
-I build AI and software systems across **computer vision, deep learning, machine learning, recommendation systems, multimodal AI, and cloud-based applications.** My work spans research and model development through software implementation, system integration, API development, cloud architecture, edge deployment, and production-oriented AI systems, with particular interest in **industrial, space, medical-device, edge, and real-world AI applications.**
+I build software systems across **computer vision, machine learning, recommendation systems, multimodal AI, and cloud-based applications.** My work spans research and model development through **software implementation, API development, automated testing, system integration, cloud architecture, edge deployment, and production-oriented AI systems**, with particular interest in industrial, space, medical-device, edge, and real-world AI applications.
 
 I hold an **M.Sc. in Electrical and Computer Engineering** from the University of Manitoba, where I conducted computer vision research in the Computational Intelligence Laboratory.
 
 ### Technical Focus
 
-**Languages:** Python · C++ · C · C# · R . Java · JavaScript · SQL . MATLAB
+**Languages:** Python · Java · C++ · C · C# · JavaScript · SQL · MATLAB · R · Bash · Perl
+**Software Engineering:** Java/Spring Boot · Microservices · REST APIs · Linux · Git/GitHub · MongoDB · PostgreSQL · Application Integration
+**Testing & Automation:** pytest · Cypress · Selenium · API Testing · Integration Testing · Regression Testing · GitHub Actions · CI/CD
 **AI / ML:** PyTorch · OpenCV · scikit-learn · TensorFlow/Keras · Deep Learning · Recommendation Systems · Metric Learning
 **Computer Vision:** Object Detection · Object Tracking · Image/Video Processing · Video Analytics · Pose & Similarity Analysis · Feature/Shape Descriptors
 **Edge & Embedded AI:** NVIDIA Jetson · LabVIEW . Edge Inference · Hardware/Software Integration · Model Optimization
-**Software Engineering:** Java/Spring Boot · Microservices · REST APIs · Linux · Git/GitHub · MongoDB · PostgreSQL
 **Cloud & DevOps:** AWS · Amazon SageMaker · Azure · Azure DevOps · Docker · Cloud Migration · Cloud Architecture · Cloud Deployment
 **Data & Analytics:** Data Analysis · Data Visualization · Model Evaluation · Performance Metrics
-**Current Focus:** Production Computer Vision · Industrial AI · Edge AI · Multimodal/LLM Systems · Web-Based AI · Cloud-Deployed ML
+**Current Focus:** Software Engineering · Production AI (Industrial, Edge) · Computer Vision & Multimodal · QA Automation · APIs/Microservices · Cloud & Edge Deployment
 
 ---
 
@@ -81,9 +82,10 @@ My work included embedded programming, FGPA hardware and LABVIEW software integr
 
 **Cloud, Edge & Deployment Experience**
 
-My applied engineering experience extends beyond model development into **cloud architecture, edge AI, software integration, and deployment workflows** across AWS and Azure environments.
+My applied engineering experience extends beyond model development into **software engineering, automated testing, cloud architecture, edge AI, application integration, and deployment workflows** across AWS and Azure environments.
 
 Evaluated and piloted **AWS and Amazon SageMaker** approaches for computer vision and machine-learning workloads.
+Developed and supported **pytest-based automated testing, API validation, GitHub Actions CI/CD, and regression-testing workflows** for software and AI systems.
 Worked with **NVIDIA Jetson Nano** for edge-based computer vision deployment and inference in real-world environments.
 Contributed to **AWS and Azure cloud migration and deployment architecture** for AI, industrial, and software systems.
 Worked with **Azure DevOps** for software delivery, engineering workflows, and dependency management.
@@ -98,23 +100,21 @@ I am **AWS Certified Cloud Practitioner** and continue to deepen my cloud archit
 
 My current engineering work is focused on building stronger production-oriented AI systems across:
 
-* Real-time computer vision and video analytics
-* Industrial and edge AI applications
+* Web-based and cloud-deployed applications
+* Industrial and edge applications
 * Multimodal AI and LLM systems
-* Web-based and cloud-deployed AI applications
+* Real-time computer vision and video analytics
 * Model inference, optimization, and scalable ML deployment
 
 ---
 
-## Selected AI Product Concepts
+## Selected Product Concepts
 
 I am also exploring applied AI concepts that combine computer vision, multimodal AI, and intelligent automation, including:
 
 * **Remote Physio** — camera-based exercise and rehabilitation guidance using pose estimation and movement analysis
 * **AI Meeting Doer** — LLM/agent-based workflows that turn meeting decisions into executable follow-up actions
 * **AI Farming Advisor** — multimodal AI for agricultural monitoring, decision support, and field insights
-
-My current portfolio development is centered on two production-oriented systems: real-time video analytics and multimodal video RAG, with cloud, edge, API, and web deployment incorporated into their architecture.
 
 ---
 
