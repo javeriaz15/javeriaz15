@@ -16,7 +16,7 @@ I hold an **M.Sc. in Electrical and Computer Engineering** from the University o
 **Edge & Embedded AI:** NVIDIA Jetson · LabVIEW . Edge Inference · Hardware/Software Integration · Model Optimization\
 **Cloud & DevOps:** AWS · Amazon SageMaker · Azure · Azure DevOps · Docker · Cloud Migration · Cloud Architecture · Cloud Deployment\
 **Data & Analytics:** Data Analysis · Data Visualization · Model Evaluation · Performance Metrics\
-**Current Focus:** Software Engineering · Production AI (Industrial, Edge) · Computer Vision & Multimodal · QA Automation · APIs/Microservices · Cloud & Edge Deployment\
+**Current Focus:** Software Engineering · Production AI (Industrial, Edge) · Computer Vision & Multimodal · QA Automation · APIs/Microservices · Cloud & Edge Deployment
 
 ---
 
