@@ -8,15 +8,15 @@ I hold an **M.Sc. in Electrical and Computer Engineering** from the University o
 
 ### Technical Focus
 
-**Languages:** Python · Java · C++ · C · C# · JavaScript · SQL · MATLAB · R · Bash · Perl
-**Software Engineering:** Java/Spring Boot · Microservices · REST APIs · Linux · Git/GitHub · MongoDB · PostgreSQL · Application Integration
-**Testing & Automation:** pytest · Cypress · Selenium · API Testing · Integration Testing · Regression Testing · GitHub Actions · CI/CD
-**AI / ML:** PyTorch · OpenCV · scikit-learn · TensorFlow/Keras · Deep Learning · Recommendation Systems · Metric Learning
-**Computer Vision:** Object Detection · Object Tracking · Image/Video Processing · Video Analytics · Pose & Similarity Analysis · Feature/Shape Descriptors
-**Edge & Embedded AI:** NVIDIA Jetson · LabVIEW . Edge Inference · Hardware/Software Integration · Model Optimization
-**Cloud & DevOps:** AWS · Amazon SageMaker · Azure · Azure DevOps · Docker · Cloud Migration · Cloud Architecture · Cloud Deployment
-**Data & Analytics:** Data Analysis · Data Visualization · Model Evaluation · Performance Metrics
-**Current Focus:** Software Engineering · Production AI (Industrial, Edge) · Computer Vision & Multimodal · QA Automation · APIs/Microservices · Cloud & Edge Deployment
+**Languages:** Python · Java · C++ · C · C# · JavaScript · SQL · MATLAB · R · Bash · Perl\
+**Software Engineering:** Java/Spring Boot · Microservices · REST APIs · Linux · Git/GitHub · MongoDB · PostgreSQL · Application Integration\
+**Testing & Automation:** pytest · Cypress · Selenium · API Testing · Integration Testing · Regression Testing · GitHub Actions · CI/CD\
+**AI / ML:** PyTorch · OpenCV · scikit-learn · TensorFlow/Keras · Deep Learning · Recommendation Systems · Metric Learning\
+**Computer Vision:** Object Detection · Object Tracking · Image/Video Processing · Video Analytics · Pose & Similarity Analysis · Feature/Shape Descriptors\
+**Edge & Embedded AI:** NVIDIA Jetson · LabVIEW . Edge Inference · Hardware/Software Integration · Model Optimization\
+**Cloud & DevOps:** AWS · Amazon SageMaker · Azure · Azure DevOps · Docker · Cloud Migration · Cloud Architecture · Cloud Deployment\
+**Data & Analytics:** Data Analysis · Data Visualization · Model Evaluation · Performance Metrics\
+**Current Focus:** Software Engineering · Production AI (Industrial, Edge) · Computer Vision & Multimodal · QA Automation · APIs/Microservices · Cloud & Edge Deployment\
 
 ---
 
