@@ -76,15 +76,6 @@ My work included embedded programming, FGPA hardware and LABVIEW software integr
 
 ---
 
-## Additional Projects
-
-### Moving Object Detection, Segmentation & Tracking
-**MATLAB · Computer Vision · Kalman Filtering · Delaunay Triangulation**  
-[Repository](https://github.com/javeriaz15/Moving-Object-Segmentation-Tracking) · [Demo](https://github.com/javeriaz15/Moving-Object-Segmentation-Tracking/blob/main/assets/demo/segmented-output.mp4)
-
-Classical CV pipeline for moving-object segmentation and centroid-based tracking; foundational work later extended in my M.Sc. research.
-
----
 
 ## **Cloud, Edge & Deployment Experience**
 
