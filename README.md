@@ -2,7 +2,7 @@
 
 ### Software Engineer | Computer Vision & Applied AI
 
-I build software systems across **computer vision, machine learning, recommendation systems, multimodal AI, and cloud-based applications.** My work spans research and model development through **software implementation, API development, automated testing, system integration, cloud architecture, edge deployment, and production-oriented AI systems**, with particular interest in industrial, space, medical-device, edge, and real-world AI applications.
+I build software systems across **web, computer vision, machine learning, recommendation systems, multimodal AI, and cloud-based applications.** My work spans research and model development through **software implementation, API development, automated testing, system integration, cloud architecture, edge deployment, and production-oriented AI systems**, with particular interest in industrial, space, medical-device, edge, and real-world AI applications.
 
 I hold an **M.Sc. in Electrical and Computer Engineering** from the University of Manitoba, where I conducted computer vision research in the Computational Intelligence Laboratory.
 
@@ -34,20 +34,6 @@ M.Sc. Computer Vision research focused on **one-shot, similarity-based recogniti
 
 ---
 
-### Moving Object Detection, Segmentation & Tracking
-
-**Computer Vision · Video Processing · Object Segmentation · Object Tracking · Kalman Filtering · Computational Geometry · Delaunay Triangulation · MATLAB**
-
-[Repository](https://github.com/javeriaz15/Moving-Object-Segmentation-Tracking) · [Demo](https://github.com/javeriaz15/Moving-Object-Segmentation-Tracking/blob/main/assets/demo/segmented-output.mp4)
-
-Developed a classical computer vision pipeline for **detecting, segmenting, and tracking moving objects across video frames**. The MATLAB implementation combines foreground extraction, morphological filtering, Canny edge detection, boundary and centroid estimation, and **Delaunay triangulation** to construct an interpretable geometric representation of moving objects over time.
-
-Also implemented a **constant-velocity Kalman filter module** for centroid-based object tracking, motion prediction, and measurement correction across successive frames.
-
-This segmentation and object-analysis approach was later **extended and refined in my M.Sc. research** on temporal single and multiple moving-object recognition using 4D shape descriptors and descriptive proximity.
-
----
-
 ### Siamese Neural Network for Few-Shot Image Recognition
 
 **PyTorch · Deep Learning · Siamese Networks · Metric Learning · Image Similarity**
@@ -58,7 +44,17 @@ Built a Siamese neural network for few-shot image recognition where only limited
 
 ---
 
-## Applied AI & Software Systems
+### Interactive Ball Launcher
+
+**ASP.NET Core · JavaScript · Cypress · xUnit · Cucumber/Gherkin · Docker · GitHub Actions · Render**
+
+[Repository](https://github.com/javeriaz15/Interactive-Ball-Launcher) · [Live Demo](https://interactive-ball-launcher.onrender.com)
+
+Full-stack interactive simulation application with a responsive HTML Canvas frontend and ASP.NET Core REST API. Includes **xUnit backend testing, Cypress E2E automation, Cucumber BDD acceptance testing, Docker containerization, GitHub Actions CI, and live cloud deployment**.
+
+---
+
+## Software & Applied AI Systems
 
 ### Idometrics
 
@@ -77,6 +73,16 @@ The platform has progressed through research, MVP development, beta validation, 
 Designed and developed an integrated healthcare technology prototype combining embedded software, medical sensors, diagnostic logic, mobile software, communication interfaces, automated medication dispensing, and printed prescription reporting.
 
 My work included embedded programming, FGPA hardware and LABVIEW software integration, system architecture, sensor integration, application development, prototyping, testing, and technical product development.
+
+---
+
+## Additional Projects
+
+### Moving Object Detection, Segmentation & Tracking
+**MATLAB · Computer Vision · Kalman Filtering · Delaunay Triangulation**  
+[Repository](https://github.com/javeriaz15/Moving-Object-Segmentation-Tracking) · [Demo](https://github.com/javeriaz15/Moving-Object-Segmentation-Tracking/blob/main/assets/demo/segmented-output.mp4)
+
+Classical CV pipeline for moving-object segmentation and centroid-based tracking; foundational work later extended in my M.Sc. research.
 
 ---
 
@@ -103,18 +109,7 @@ My current engineering work is focused on building stronger production-oriented 
 * Web-based and cloud-deployed applications
 * Industrial and edge applications
 * Multimodal AI and LLM systems
-* Real-time computer vision and video analytics
 * Model inference, optimization, and scalable ML deployment
-
----
-
-## Selected Product Concepts
-
-I am also exploring applied AI concepts that combine computer vision, multimodal AI, and intelligent automation, including:
-
-* **Remote Physio** — camera-based exercise and rehabilitation guidance using pose estimation and movement analysis
-* **AI Meeting Doer** — LLM/agent-based workflows that turn meeting decisions into executable follow-up actions
-* **AI Farming Advisor** — multimodal AI for agricultural monitoring, decision support, and field insights
 
 ---
 
