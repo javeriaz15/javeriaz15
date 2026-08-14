@@ -86,7 +86,7 @@ Classical CV pipeline for moving-object segmentation and centroid-based tracking
 
 ---
 
-**Cloud, Edge & Deployment Experience**
+## **Cloud, Edge & Deployment Experience**
 
 My applied engineering experience extends beyond model development into **software engineering, automated testing, cloud architecture, edge AI, application integration, and deployment workflows** across AWS and Azure environments.
 
